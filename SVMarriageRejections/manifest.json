@@ -1,0 +1,10 @@
+{
+  "Name": "Marriage Rejections",
+  "Author": "Kaitlyn Kenwell",
+  "Version": "0.0.1",
+  "Description": "A mod that will make some girls straight so you get to deal with that sort of rejection in your virtual life",
+  "UniqueID": "kaitlyn.MarriageRejections",
+  "EntryDll": "SVMarriageRejections.dll",
+  "MinimumAPIVersion": "3.0.0",
+  "UpdateKeys": []
+}
